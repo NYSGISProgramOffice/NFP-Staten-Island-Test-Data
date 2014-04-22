@@ -1,79 +1,79 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "OBJECTID": "1", "Vendor_ID": "1", "Institution": "NFP 1", "Payment_Amount": "75000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.098833, 40.563275 ] } }
+{ "type": "Feature", "properties": { "ID": "1", "Institution": "NFP 1", "Payment Amount": "$75,000" }, "geometry": { "type": "Point", "coordinates": [ -74.098833, 40.563275 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "2", "Vendor_ID": "2", "Institution": "NFP 2", "Payment_Amount": "15000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.082472, 40.647544 ] } }
+{ "type": "Feature", "properties": { "ID": "2", "Institution": "NFP 2", "Payment Amount": "$15,000" }, "geometry": { "type": "Point", "coordinates": [ -74.082472, 40.647544 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "3", "Vendor_ID": "3", "Institution": "NFP 3", "Payment_Amount": "2500.0000" }, "geometry": { "type": "Point", "coordinates": [ -74.236668, 40.533864 ] } }
+{ "type": "Feature", "properties": { "ID": "3", "Institution": "NFP 3", "Payment Amount": "$2,500" }, "geometry": { "type": "Point", "coordinates": [ -74.236668, 40.533864 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "4", "Vendor_ID": "4", "Institution": "NFP 4", "Payment_Amount": "210000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.090415, 40.596179 ] } }
+{ "type": "Feature", "properties": { "ID": "4", "Institution": "NFP 4", "Payment Amount": "$210,000" }, "geometry": { "type": "Point", "coordinates": [ -74.090415, 40.596179 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "5", "Vendor_ID": "5", "Institution": "NFP 5", "Payment_Amount": "570000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.075833, 40.640663 ] } }
+{ "type": "Feature", "properties": { "ID": "5", "Institution": "NFP 5", "Payment Amount": "$570,000" }, "geometry": { "type": "Point", "coordinates": [ -74.075833, 40.640663 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "6", "Vendor_ID": "6", "Institution": "NFP 6", "Payment_Amount": "16500.000" }, "geometry": { "type": "Point", "coordinates": [ -74.075833, 40.640663 ] } }
+{ "type": "Feature", "properties": { "ID": "6", "Institution": "NFP 6", "Payment Amount": "$16,500" }, "geometry": { "type": "Point", "coordinates": [ -74.075833, 40.640663 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "7", "Vendor_ID": "7", "Institution": "NFP 7", "Payment_Amount": "50000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.134980, 40.635596 ] } }
+{ "type": "Feature", "properties": { "ID": "7", "Institution": "NFP 7", "Payment Amount": "$50,000" }, "geometry": { "type": "Point", "coordinates": [ -74.134980, 40.635596 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "8", "Vendor_ID": "8", "Institution": "NFP 8", "Payment_Amount": "5000000" }, "geometry": { "type": "Point", "coordinates": [ -74.104645, 40.645253 ] } }
+{ "type": "Feature", "properties": { "ID": "8", "Institution": "NFP 8", "Payment Amount": "$5,000,000" }, "geometry": { "type": "Point", "coordinates": [ -74.104645, 40.645253 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "9", "Vendor_ID": "9", "Institution": "NFP 9", "Payment_Amount": "10000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.148342, 40.633416 ] } }
+{ "type": "Feature", "properties": { "ID": "9", "Institution": "NFP 9", "Payment Amount": "$10,000" }, "geometry": { "type": "Point", "coordinates": [ -74.148342, 40.633416 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "10", "Vendor_ID": "10", "Institution": "NFP 10", "Payment_Amount": "660000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.138257, 40.615909 ] } }
+{ "type": "Feature", "properties": { "ID": "10", "Institution": "NFP 10", "Payment Amount": "$660,000" }, "geometry": { "type": "Point", "coordinates": [ -74.138257, 40.615909 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "11", "Vendor_ID": "11", "Institution": "NFP 11", "Payment_Amount": "30000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.126566, 40.594875 ] } }
+{ "type": "Feature", "properties": { "ID": "11", "Institution": "NFP 11", "Payment Amount": "$30,000" }, "geometry": { "type": "Point", "coordinates": [ -74.126566, 40.594875 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "12", "Vendor_ID": "12", "Institution": "NFP 12", "Payment_Amount": "7100000" }, "geometry": { "type": "Point", "coordinates": [ -74.150372, 40.614413 ] } }
+{ "type": "Feature", "properties": { "ID": "12", "Institution": "NFP 12", "Payment Amount": "$7,100,000" }, "geometry": { "type": "Point", "coordinates": [ -74.150372, 40.614413 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "13", "Vendor_ID": "13", "Institution": "NFP 13", "Payment_Amount": "22000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.142849, 40.602810 ] } }
+{ "type": "Feature", "properties": { "ID": "13", "Institution": "NFP 13", "Payment Amount": "$22,000" }, "geometry": { "type": "Point", "coordinates": [ -74.142849, 40.602810 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "14", "Vendor_ID": "14", "Institution": "NFP 14", "Payment_Amount": "45000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.220680, 40.510413 ] } }
+{ "type": "Feature", "properties": { "ID": "14", "Institution": "NFP 14", "Payment Amount": "$45,000" }, "geometry": { "type": "Point", "coordinates": [ -74.220680, 40.510413 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "15", "Vendor_ID": "15", "Institution": "NFP 15", "Payment_Amount": "1250000" }, "geometry": { "type": "Point", "coordinates": [ -74.134531, 40.633288 ] } }
+{ "type": "Feature", "properties": { "ID": "15", "Institution": "NFP 15", "Payment Amount": "$1,250,000" }, "geometry": { "type": "Point", "coordinates": [ -74.134531, 40.633288 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "16", "Vendor_ID": "16", "Institution": "NFP 16", "Payment_Amount": "2500.0000" }, "geometry": { "type": "Point", "coordinates": [ -74.142849, 40.602810 ] } }
+{ "type": "Feature", "properties": { "ID": "16", "Institution": "NFP 16", "Payment Amount": "$2,500" }, "geometry": { "type": "Point", "coordinates": [ -74.142849, 40.602810 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "17", "Vendor_ID": "17", "Institution": "NFP 17", "Payment_Amount": "3000.0000" }, "geometry": { "type": "Point", "coordinates": [ -74.132010, 40.636408 ] } }
+{ "type": "Feature", "properties": { "ID": "17", "Institution": "NFP 17", "Payment Amount": "$3,000" }, "geometry": { "type": "Point", "coordinates": [ -74.132010, 40.636408 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "18", "Vendor_ID": "18", "Institution": "NFP 18", "Payment_Amount": "4000.0000" }, "geometry": { "type": "Point", "coordinates": [ -74.110581, 40.629955 ] } }
+{ "type": "Feature", "properties": { "ID": "18", "Institution": "NFP 18", "Payment Amount": "$4,000" }, "geometry": { "type": "Point", "coordinates": [ -74.110581, 40.629955 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "19", "Vendor_ID": "19", "Institution": "NFP 19", "Payment_Amount": "1100000" }, "geometry": { "type": "Point", "coordinates": [ -74.142231, 40.597868 ] } }
+{ "type": "Feature", "properties": { "ID": "19", "Institution": "NFP 19", "Payment Amount": "$1,100,000" }, "geometry": { "type": "Point", "coordinates": [ -74.142231, 40.597868 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "20", "Vendor_ID": "20", "Institution": "NFP 20", "Payment_Amount": "7000.0000" }, "geometry": { "type": "Point", "coordinates": [ -74.132145, 40.638053 ] } }
+{ "type": "Feature", "properties": { "ID": "20", "Institution": "NFP 20", "Payment Amount": "$7,000" }, "geometry": { "type": "Point", "coordinates": [ -74.132145, 40.638053 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "21", "Vendor_ID": "21", "Institution": "NFP 21", "Payment_Amount": "3600000" }, "geometry": { "type": "Point", "coordinates": [ -74.075862, 40.640794 ] } }
+{ "type": "Feature", "properties": { "ID": "21", "Institution": "NFP 21", "Payment Amount": "$3,600,000" }, "geometry": { "type": "Point", "coordinates": [ -74.075862, 40.640794 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "22", "Vendor_ID": "22", "Institution": "NFP 22", "Payment_Amount": "120000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.078599, 40.581994 ] } }
+{ "type": "Feature", "properties": { "ID": "22", "Institution": "NFP 22", "Payment Amount": "$120,000" }, "geometry": { "type": "Point", "coordinates": [ -74.078599, 40.581994 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "23", "Vendor_ID": "23", "Institution": "NFP 23", "Payment_Amount": "100000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.078152, 40.642575 ] } }
+{ "type": "Feature", "properties": { "ID": "23", "Institution": "NFP 23", "Payment Amount": "$100,000" }, "geometry": { "type": "Point", "coordinates": [ -74.078152, 40.642575 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "24", "Vendor_ID": "24", "Institution": "NFP 24", "Payment_Amount": "63000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.173403, 40.602985 ] } }
+{ "type": "Feature", "properties": { "ID": "24", "Institution": "NFP 24", "Payment Amount": "$63,000" }, "geometry": { "type": "Point", "coordinates": [ -74.173403, 40.602985 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "25", "Vendor_ID": "25", "Institution": "NFP 25", "Payment_Amount": "316000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.098058, 40.633795 ] } }
+{ "type": "Feature", "properties": { "ID": "25", "Institution": "NFP 25", "Payment Amount": "$31,6000" }, "geometry": { "type": "Point", "coordinates": [ -74.098058, 40.633795 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "26", "Vendor_ID": "26", "Institution": "NFP 26", "Payment_Amount": "7800000" }, "geometry": { "type": "Point", "coordinates": [ -74.149572, 40.552526 ] } }
+{ "type": "Feature", "properties": { "ID": "26", "Institution": "NFP 26", "Payment Amount": "$7,800,000" }, "geometry": { "type": "Point", "coordinates": [ -74.149572, 40.552526 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "27", "Vendor_ID": "27", "Institution": "NFP 27", "Payment_Amount": "4400000" }, "geometry": { "type": "Point", "coordinates": [ -74.144862, 40.569975 ] } }
+{ "type": "Feature", "properties": { "ID": "27", "Institution": "NFP 27", "Payment Amount": "$4,400,000" }, "geometry": { "type": "Point", "coordinates": [ -74.144862, 40.569975 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "28", "Vendor_ID": "28", "Institution": "NFP 28", "Payment_Amount": "2200000" }, "geometry": { "type": "Point", "coordinates": [ -74.103705, 40.635292 ] } }
+{ "type": "Feature", "properties": { "ID": "28", "Institution": "NFP 28", "Payment Amount": "$2,200,000" }, "geometry": { "type": "Point", "coordinates": [ -74.103705, 40.635292 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "29", "Vendor_ID": "29", "Institution": "NFP 29", "Payment_Amount": "18000.000" }, "geometry": { "type": "Point", "coordinates": [ -74.086368, 40.584184 ] } }
+{ "type": "Feature", "properties": { "ID": "29", "Institution": "NFP 29", "Payment Amount": "$18,000" }, "geometry": { "type": "Point", "coordinates": [ -74.086368, 40.584184 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "30", "Vendor_ID": "30", "Institution": "NFP 30", "Payment_Amount": "8200000" }, "geometry": { "type": "Point", "coordinates": [ -74.104145, 40.643723 ] } }
+{ "type": "Feature", "properties": { "ID": "30", "Institution": "NFP 30", "Payment Amount": "$8,200,000" }, "geometry": { "type": "Point", "coordinates": [ -74.104145, 40.643723 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "31", "Vendor_ID": "31", "Institution": "NFP 31", "Payment_Amount": "520000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.104145, 40.643723 ] } }
+{ "type": "Feature", "properties": { "ID": "31", "Institution": "NFP 31", "Payment Amount": "$520,000" }, "geometry": { "type": "Point", "coordinates": [ -74.104145, 40.643723 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "32", "Vendor_ID": "32", "Institution": "NFP 32", "Payment_Amount": "18400000" }, "geometry": { "type": "Point", "coordinates": [ -74.087214, 40.638050 ] } }
+{ "type": "Feature", "properties": { "ID": "32", "Institution": "NFP 32", "Payment Amount": "$18,400,000" }, "geometry": { "type": "Point", "coordinates": [ -74.087214, 40.638050 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "33", "Vendor_ID": "33", "Institution": "NFP 33", "Payment_Amount": "145000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.077008, 40.642961 ] } }
+{ "type": "Feature", "properties": { "ID": "33", "Institution": "NFP 33", "Payment Amount": "$14,5000" }, "geometry": { "type": "Point", "coordinates": [ -74.077008, 40.642961 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "34", "Vendor_ID": "34", "Institution": "NFP 34", "Payment_Amount": "630000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.094294, 40.614917 ] } }
+{ "type": "Feature", "properties": { "ID": "34", "Institution": "NFP 34", "Payment Amount": "$630,000" }, "geometry": { "type": "Point", "coordinates": [ -74.094294, 40.614917 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "35", "Vendor_ID": "35", "Institution": "NFP 35", "Payment_Amount": "750000.0" }, "geometry": { "type": "Point", "coordinates": [ -74.133881, 40.592939 ] } }
+{ "type": "Feature", "properties": { "ID": "35", "Institution": "NFP 35", "Payment Amount": "$750,000" }, "geometry": { "type": "Point", "coordinates": [ -74.133881, 40.592939 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "36", "Vendor_ID": "36", "Institution": "NFP 36", "Payment_Amount": "6500000" }, "geometry": { "type": "Point", "coordinates": [ -74.173033, 40.607210 ] } }
+{ "type": "Feature", "properties": { "ID": "36", "Institution": "NFP 36", "Payment Amount": "$6,500,000" }, "geometry": { "type": "Point", "coordinates": [ -74.173033, 40.607210 ] } }
 ,
-{ "type": "Feature", "properties": { "OBJECTID": "37", "Vendor_ID": "37", "Institution": "NFP 37", "Payment_Amount": "3900000" }, "geometry": { "type": "Point", "coordinates": [ -74.131142, 40.637050 ] } }
+{ "type": "Feature", "properties": { "ID": "37", "Institution": "NFP 37", "Payment Amount": "$3,900,000" }, "geometry": { "type": "Point", "coordinates": [ -74.131142, 40.637050 ] } }
 
 ]
 }
